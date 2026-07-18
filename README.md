@@ -2,9 +2,9 @@
 **1. Project Title:**
 ----------------------------
   End-to-end retail analytics using microsoft sql server
-
+----------------------------
 **2. Project Overview**
-
+----------------------------
 ----------------------------
 **Project Description**
 ----------------------------
