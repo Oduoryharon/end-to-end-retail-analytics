@@ -7,9 +7,9 @@
 **2. Project Overview**
 ====================================
 
-##----------------------------
+----------------------------
 **Project Description**
-##----------------------------
+----------------------------
 
 This project is an end-to-end retail analytics solution engineered to transform raw, disconnected transactional data into actionable business intelligence. Built entirely within the Microsoft SQL Server ecosystem, the project serves as a comprehensive framework for professional SQL development, data modeling, and advanced analytical querying. It bridges the gap between low-level database management and high-level strategic decision-making by simulating a real-world corporate data environment.
 
