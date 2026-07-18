@@ -1,1 +1,2 @@
-**TITLE:** End-to-end retail analytics using microsoft sql server
+**Project Title:**
+  End-to-end retail analytics using microsoft sql server
