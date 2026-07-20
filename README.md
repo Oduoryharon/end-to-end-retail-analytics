@@ -1,42 +1,92 @@
-----------------------------
-**1. Project Title:**
-----------------------------
-  End-to-end retail analytics using microsoft sql server
-----------------------------
-**2. Project Overview**
-----------------------------
-----------------------------
-**Project Description**
-----------------------------
+# End-to-End Retail Analytics Using Microsoft SQL Server
 
-This project is an end-to-end retail analytics solution engineered to transform raw, disconnected transactional data into actionable business intelligence. Built entirely within the Microsoft SQL Server ecosystem, the project serves as a comprehensive framework for professional SQL development, data modeling, and advanced analytical querying. It bridges the gap between low-level database management and high-level strategic decision-making by simulating a real-world corporate data environment.
+## 📖 Project Overview
 
------------------------------------
-**Project Purpose & Motivation**
------------------------------------
+This project is an end-to-end Retail Analytics solution built using Microsoft SQL Server. The objective is to simulate a real-world data analytics project by following the complete analytics lifecycle—from understanding the business problem to delivering actionable insights through SQL analysis and reporting.
 
-The primary motivation behind building this project is to master the complexities of professional database development and enterprise analytics. While writing basic queries is straightforward, managing a full-scale analytics pipeline requires a deep understanding of data integrity, query optimization, and architectural design.
+The project emphasizes professional documentation, version control, and industry best practices while strengthening SQL Server skills.
 
-By building this system, the goal is to:
+> **Project Status:** 🚧 In Progress ( Project Setup)
 
-Develop production-ready SQL architectures using stored procedures, views, and indexing.
+---
 
-Implement robust Data Cleaning and Transformation (ETL) pipelines directly within SQL Server.
+## 🎯 Project Objectives
 
-Translate complex business hypotheses into precise, optimized analytical queries.
+- Build an end-to-end retail analytics solution.
+- Strengthen Microsoft SQL Server and T-SQL skills.
+- Perform data cleaning and validation.
+- Design a relational database.
+- Conduct exploratory and business data analysis.
+- Optimize SQL queries for performance.
+- Prepare data for Power BI dashboards.
+- Document every phase professionally using Notion and GitHub.
 
-------------------------------
-**Business Problem Solved**
-------------------------------
+---
 
-Modern retail operations generate massive volumes of daily data—ranging from customer demographics and inventory shifts to point-of-sale transactions. However, this data frequently exists in a raw, siloed, or unoptimized state, preventing stakeholders from gaining a clear picture of performance.
+## 🛠️ Technology Stack
 
-This project solves critical business friction points by:
+- Microsoft SQL Server
+- SQL Server Management Studio (SSMS)
+- Git & GitHub
+- Notion
+- draw.io
+- Tablaue
 
-Consolidating Data Silos: Unifying disparate data points (sales, inventory, customers) into a centralized, single source of truth.
+---
 
-Identifying Revenue Drivers: Surface insights into top-performing products, seasonal sales trends, and profit margins.
+## 🗺️ Project Roadmap
 
-Customer Behavioral Analysis: Segmenting customers based on purchasing patterns to optimize targeted marketing and improve retention.
+- ⚙️ Project Setup *(Complete)*
+- 🎯 Business Understanding *(current)*
+- 📥 Data Collection
+- 🔍 Data Profiling
+- 🧹 Data Cleaning
+- 🏗️ Database Design
+- 📦 Data Loading
+- ✅ Data Validation
+- 📊 Exploratory Data Analysis
+- 💼 Business Analysis
+- ⚡ Advanced SQL Analytics
+- 🚀 Performance Optimization
+- 📈 Dashboard Preparation
+- 🏆 Documentation & Portfolio
 
-Operational Efficiency: Turning historical data into actionable trends to help mitigate inventory bottlenecks or stockouts.
+---
+
+## 📂 Repository Structure
+
+This repository will contain:
+
+- SQL scripts
+- Project documentation
+- Database design
+- Draw.io diagrams
+- Analysis reports
+- tableau files
+- Project images and screenshots
+
+---
+
+## 📈 Current Progress
+
+- [x] Project planning
+- [ ] Project setup
+- [ ] Business understanding
+- [ ] Data collection
+- [ ] Data profiling
+- [ ] Data cleaning
+- [ ] Database design
+- [ ] Data loading
+- [ ] Data validation
+- [ ] Exploratory data analysis
+- [ ] Business analysis
+- [ ] Advanced SQL analytics
+- [ ] Performance optimization
+- [ ] Dashboard preparation
+- [ ] Documentation & portfolio
+
+---
+
+## 🚀 Goal
+
+By the end of this project, I will have developed a complete retail analytics solution using Microsoft SQL Server while following professional software development and data analytics practices.
